@@ -1,0 +1,78 @@
+{
+    "email": {
+        "id": "email",
+        "value": "a@gmail.com",
+        "originalValue": null,
+        "isPure": false
+    },
+    "password": {
+        "id": "password",
+        "value": "123456789a",
+        "originalValue": null,
+        "isPure": false
+    },
+    "phoneNumbers": {
+        "id": "phoneNumbers",
+        "value": [
+            {
+                "id": "4NcRMx7A24cTMA3D",
+                "value": "asd",
+                "originalValue": null,
+                "isPure": false
+            }
+        ],
+        "originalValue": [],
+        "isPure": false
+    },
+    "addresses": {
+        "id": "addresses",
+        "value": [
+            {
+                "id": "If4SWA1z4upa6Q6G",
+                "value": {
+                    "country": {
+                        "id": "country",
+                        "value": "c",
+                        "originalValue": null,
+                        "isPure": false
+                    },
+                    "fullAddress": {
+                        "id": "fullAddress",
+                        "value": "my second address",
+                        "originalValue": null,
+                        "isPure": false
+                    },
+                    "postalCode": {
+                        "id": "postalCode",
+                        "value": "987",
+                        "originalValue": null,
+                        "isPure": false
+                    }
+                },
+                "originalValue": {
+                    "country": {
+                        "id": "country",
+                        "value": "c",
+                        "originalValue": null,
+                        "isPure": false
+                    },
+                    "fullAddress": {
+                        "id": "fullAddress",
+                        "value": "my second address",
+                        "originalValue": null,
+                        "isPure": false
+                    },
+                    "postalCode": {
+                        "id": "postalCode",
+                        "value": "987",
+                        "originalValue": null,
+                        "isPure": false
+                    }
+                },
+                "isPure": true
+            }
+        ],
+        "originalValue": [],
+        "isPure": false
+    }
+}

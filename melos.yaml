@@ -1,0 +1,5 @@
+name: fi
+
+packages:
+  - packages/*
+  - packages/*/*
