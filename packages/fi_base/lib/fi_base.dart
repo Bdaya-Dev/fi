@@ -4,6 +4,7 @@ library;
 export 'src/aggregator.dart';
 export 'src/mixins/_exports.dart';
 export 'src/state_base.dart';
+export 'src/state_extras.dart';
 export 'src/state_concrete.dart';
 export 'src/typedefs.dart';
 export 'src/validator.dart';

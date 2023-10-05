@@ -3,3 +3,4 @@ library fi;
 
 export 'src/fi.dart';
 export 'src/field_list.dart';
+export 'src/fields.dart';
